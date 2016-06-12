@@ -1,4 +1,3 @@
 library(stats)
 #New edit
-#I'm still trying to figure this out
-#changed it in the browser
+#Starting an open source project to look at crime rates in the Denver area
